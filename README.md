@@ -1,3 +1,5 @@
 The contents of this file are from the Google Advanced Data Analytics Course. 
 It is an annotated process of coding used on Jupyter Notebook and PyCharm.
 NOTE: there are sections of the code copied from the Exemplar provided, the use of these are to allow me to see the full scope of data analysis for practice during and after the completion of the project.
+
+During a project for Salifort Motors, I analysed a 10,000-record dataset to predict employee attrition and identify key turnover factors. I collected and cleaned data, conducted exploratory data analysis using Python libraries, and engineered features. I developed models with Scikit-learn, with the Random Forest achieving 85% accuracy and an F1-score of 0.83. I visualised findings using Tableau and Seaborn, revealing job satisfaction, salary increase percentage, and tenure as key attrition predictors. The predictive model can help a HR team identify high-risk employees and implement targeted retention strategies, showcasing my proficiency in end-to-end data analysis and effective communication.
